@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Welcome to [Your App Name]. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our application.
+Welcome to Who's the Spy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our application.
 
 ## 2. Information We Collect
 
@@ -58,9 +58,9 @@ If you are using our application from outside [Your Country], please note that y
 
 If you have any questions or concerns about this Privacy Policy, please contact us:
 
-**Email:** your@email.com  
-**Address:** [Your Address]  
-**Phone:** [Your Phone Number]
+**Email:** kubikkohoutek88@gmail.com
+**Address:** U Větrolamu 257, Ptice
+**Phone:** +420 731 205 565
 
 ## 12. Governing Law
 
