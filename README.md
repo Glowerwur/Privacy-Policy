@@ -68,4 +68,4 @@ This Privacy Policy is governed by the laws of [Your Country/State] and any disp
 
 ---
 
-*Last updated: July 12, 2025*  
+*Last updated: July 12, 2025* 
