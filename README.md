@@ -38,7 +38,17 @@ Our application is not intended for children under 13 years of age. We do not kn
 
 ## 7. Third-Party Services
 
-Our application may contain links to third-party services or websites. We are not responsible for the privacy practices of these third parties. We encourage you to review their privacy policies.
+Our application uses AdMob, a mobile advertising service provided by Google. AdMob may collect and use certain information from your device, such as:
+- Device identifiers (e.g., Android Advertising ID or Apple Identifier for Advertisers)
+- Location information (if permitted)
+- App usage data
+- Cookies and similar technologies for ad personalization and analytics
+
+AdMob’s use of information is governed by Google’s Privacy Policy. For more information on how Google collects and processes data, please visit:
+
+[Google Privacy Policy](https://policies.google.com/privacy)
+
+We are not responsible for the privacy practices of AdMob or other third-party services. We encourage you to review their privacy policies. 
 
 ## 8. Changes to This Privacy Policy
 
