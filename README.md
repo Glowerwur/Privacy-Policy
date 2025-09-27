@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Welcome to Who's the Spy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our application.
+This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our application.
 
 ## 2. Information We Collect
 
